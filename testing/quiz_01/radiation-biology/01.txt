@@ -1,0 +1,10 @@
+100 rads equals how many cGy?
+
+a. 200
+b. 300
+c. 100
+d. 10
+
+ans. C
+
+No the answer should be A I think. We also need to add better descrption?
